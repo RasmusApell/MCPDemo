@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "demo-server": {
+      "command": "/home/sa/Repos/MCPDemo/local/venv/bin/python",
+      "args": [
+        "/home/sa/Repos/MCPDemo/local/main.py"
+      ]
+    }
+  }
+}
