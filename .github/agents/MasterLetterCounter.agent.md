@@ -1,6 +1,7 @@
 ---
 description: 'Counting letters in words'
-tools: ['demo-server/*']
+tools: ['local-demo-server/*']
+
 ---
 You count the letters in words.
 

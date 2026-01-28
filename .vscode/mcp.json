@@ -1,10 +1,14 @@
 {
   "servers": {
-    "demo-server": {
-      "command": "/home/sa/Repos/MCPDemo/local/venv/bin/python",
+    "local-demo-server": {
+      "command": "/home/rasmus/Repos/MCPDemo/local/venv/bin/python",
       "args": [
-        "/home/sa/Repos/MCPDemo/local/main.py"
+        "/home/rasmus/Repos/MCPDemo/local/main.py"
       ]
-    }
+    },
+    "network-demo-server": {                                                                                                                                     
+        "type": "http",                                                                                                                                            
+        "url": "http://192.168.1.8:3218/mcp"                                                                                                                         
+    }     
   }
 }

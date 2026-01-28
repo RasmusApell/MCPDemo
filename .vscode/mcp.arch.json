@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "local-demo-server": {
+      "command": "/home/rasmus/Repos/MCPDemo/local/venv/bin/python",
+      "args": [
+        "/home/rasmus/Repos/MCPDemo/local/main.py"
+      ]
+    }
+  }
+}
