@@ -2,6 +2,7 @@
 ## Setup Instructions
 ### Local
 ##### Copilot in VSCode
+Skapa venv och installera requirements
 Kör "Start" i mcp.json filen under .vscode
 Paths till venv python och main.py behöver uppdateras
 
